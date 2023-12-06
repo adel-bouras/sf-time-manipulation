@@ -1,0 +1,3 @@
+/home/adel/sf/build/CMakeFiles/test.dir
+/home/adel/sf/build/CMakeFiles/edit_cache.dir
+/home/adel/sf/build/CMakeFiles/rebuild_cache.dir

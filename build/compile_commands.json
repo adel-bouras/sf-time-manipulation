@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/adel/sf/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/test.dir/src/sf.cpp.o -c /home/adel/sf/src/sf.cpp",
+  "file": "/home/adel/sf/src/sf.cpp"
+}
+]
